@@ -1,0 +1,10 @@
+C:\Users\FARZANEH\source\repos\win1\win1\bin\Debug\win1.exe.config
+C:\Users\FARZANEH\source\repos\win1\win1\bin\Debug\win1.exe
+C:\Users\FARZANEH\source\repos\win1\win1\bin\Debug\win1.pdb
+C:\Users\FARZANEH\source\repos\win1\win1\obj\Debug\win1.csprojAssemblyReference.cache
+C:\Users\FARZANEH\source\repos\win1\win1\obj\Debug\win1.Properties.Resources.resources
+C:\Users\FARZANEH\source\repos\win1\win1\obj\Debug\win1.csproj.GenerateResource.cache
+C:\Users\FARZANEH\source\repos\win1\win1\obj\Debug\win1.csproj.CoreCompileInputs.cache
+C:\Users\FARZANEH\source\repos\win1\win1\obj\Debug\win1.exe
+C:\Users\FARZANEH\source\repos\win1\win1\obj\Debug\win1.pdb
+C:\Users\FARZANEH\source\repos\win1\win1\obj\Debug\win1.Form1.resources
