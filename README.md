@@ -10,7 +10,7 @@
 <img src="https://github.com/fark00/farkoo-Simulator/blob/master/simulator.png">
 
 ## Capabilities:
-* Load pre-written code in the program
+* Load pre-written code in the program (only .rtf format)
 * Save the written code
 * Compile the code
 * Run the program line by line automatically at the appropriate speed
